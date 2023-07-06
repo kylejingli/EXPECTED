@@ -1,0 +1,251 @@
+index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+5811	main-captions	MSRvid	2012test	372	none	none	A slow lori walks around.	A animal is walking around.	2.8
+626	main-captions	MSRvid	2012train	195	none	none	A woman cuts up broccoli.	A woman is cutting broccoli.	5.0
+477	main-captions	MSRvid	2012test	719	none	none	A boy is playing a key-board.	A boy is sitting in a room playing a piano by lamp light.	3.25
+545	main-captions	MSRvid	2012train	80	none	none	A woman is dancing.	The man is dancing.	2.6
+584	main-captions	MSRvid	2012train	131	none	none	A woman is peeling a potato.	A woman is slicing a tomato.	1.333
+822	main-captions	MSRvid	2012train	483	none	none	A man is playing the trumpet.	Someone is playing with a toad.	0.8
+220	main-captions	MSRvid	2012test	323	none	none	Someone is slicing an onion.	Someoen is peeling a potato.	1.0
+5777	main-captions	MSRvid	2012test	173	none	none	A woman is reading.	A woman is kneading dough.	1.0
+5757	main-captions	MSRvid	2012test	27	none	none	Three men are playing guitars.	Three men are on stage playing guitars.	3.75
+5883	main-captions	MSRvid	2012train	16	none	none	The man is slicing a potato.	A man is slicing potato.	5.0
+895	main-captions	MSRvid	2012train	592	none	none	A dog is opening a fridge.	A dog closes a refrigerator door.	1.75
+909	main-captions	MSRvid	2012train	613	none	none	A man is slam dunking a ball.	A woman is slicing some onions.	0.0
+52	main-captions	MSRvid	2012test	77	none	none	A man is playing a guitar.	A man is playing an electric guitar.	3.75
+5838	main-captions	MSRvid	2012test	514	none	none	Batman and Robin fly a helicopter over water.	A helicopter flies over water.	2.6
+396	main-captions	MSRvid	2012test	598	none	none	A man is shaking a container over a kitchen sink.	A man is emptying a plastic container.	2.2
+5891	main-captions	MSRvid	2012train	78	none	none	The man is smashing garlic.	A man is smashing some garlic.	5.0
+5814	main-captions	MSRvid	2012test	387	none	none	A man is making a bed.	A woman is playing a guitar.	0.0
+5801	main-captions	MSRvid	2012test	306	none	none	The woman is cracking eggs into a bowl.	The lady broke raw eggs into a bowl.	4.8
+953	main-captions	MSRvid	2012train	678	none	none	A man is sweeping the floor of a house using a long broom.	The man swept the empty living room.	3.333
+956	main-captions	MSRvid	2012train	682	none	none	The man set up his camera to take sunset pictures at the beach.	A man is taking pictures of a lake.	2.2
+176	main-captions	MSRvid	2012test	260	none	none	Three women are dancing.	The man is dancing.	1.6
+352	main-captions	MSRvid	2012test	525	none	none	A woman peels an apple.	A man pops wheelies on a motorcycle.	0.0
+690	main-captions	MSRvid	2012train	283	none	none	A woman is cutting some flowers.	A woman is cutting broccoli.	1.0
+917	main-captions	MSRvid	2012train	623	none	none	A man is adding pork chops to a pan.	A woman is peeling a potato.	1.0
+877	main-captions	MSRvid	2012train	563	none	none	The person is removing the scales from the fish.	A person is descaling a fish.	5.0
+5885	main-captions	MSRvid	2012train	42	none	none	A person is peeling shrimp.	A man is peeling shrimp.	3.8
+266	main-captions	MSRvid	2012test	397	none	none	A kid runs away from a fish swinging around on a fishing pole.	A little kid is running around a fishing pole.	2.5
+301	main-captions	MSRvid	2012test	448	none	none	A dog is looking into swimming pool.	A dog is walking along the edge of a pool.	2.6
+722	main-captions	MSRvid	2012train	324	none	none	A man is mowing a lawn.	A man is mixing.	0.8
+891	main-captions	MSRvid	2012train	584	none	none	A woman shoots a shotgun.	The woman is shooting a rifle.	2.8
+5862	main-captions	MSRvid	2012test	652	none	none	A man shoots a basket.	A man is playing a guitar.	0.5
+127	main-captions	MSRvid	2012test	188	none	none	A boy is playing an instrument.	A man is playing a trumpet.	2.5
+5870	main-captions	MSRvid	2012test	704	none	none	A cow is eating grass.	A dog is pulling a girl down a hill.	0.0
+5788	main-captions	MSRvid	2012test	222	none	none	A man is playing a basketball.	A man is playing a piano.	1.4
+843	main-captions	MSRvid	2012train	513	none	none	Girls are walking on the stage.	Women models are walking down a catwalk.	2.6
+432	main-captions	MSRvid	2012test	646	none	none	A dog is running on the ground.	A girl is tapping her finger nails.	0.0
+435	main-captions	MSRvid	2012test	651	none	none	A woman is mincing some garlic.	A person is cleaning a disk.	0.0
+5810	main-captions	MSRvid	2012test	367	none	none	Someone is shredding cabbage leaves with a knife.	Someone is chopping some cabbage leaves.	4.5
+41	main-captions	MSRvid	2012test	61	none	none	A woman is playing an electric guitar.	A woman is playing a guitar.	3.6
+589	main-captions	MSRvid	2012train	140	none	none	A woman is slicing a carrot.	A man is slicing a tomato.	1.2
+533	main-captions	MSRvid	2012train	60	none	none	A woman is chopping broccoli.	A woman is chopping garlic.	2.6
+998	main-captions	MSRvid	2012train	748	none	none	A man is straining pasta.	A man plays a wooden flute.	0.0
+338	main-captions	MSRvid	2012test	503	none	none	The little girl played on the grass with a dog and a ball.	A baby plays with a dog and ball.	3.8
+450	main-captions	MSRvid	2012test	680	none	none	A man is patting an alligator on the mouth.	A person is dumping chopped vegetables into a pot on the stove.	0.0
+288	main-captions	MSRvid	2012test	430	none	none	The elephants sprayed water on themselves.	Elephants spray themselves with water.	3.6
+853	main-captions	MSRvid	2012train	525	none	none	A kitten is eating its food from a plate.	A kitten eats some food.	4.0
+5783	main-captions	MSRvid	2012test	211	none	none	A man sitting on the floor plays a guitar.	A man sitting on the floor in a room is strumming a guitar.	4.8
+678	main-captions	MSRvid	2012train	264	none	none	A man is swinging in a rope.	A gibbon is swinging in the trees.	1.25
+786	main-captions	MSRvid	2012train	426	none	none	A man is walking outside.	A man is dancing.	0.75
+125	main-captions	MSRvid	2012test	185	none	none	The people got off the train.	The people got off the train at the station.	4.0
+444	main-captions	MSRvid	2012test	670	none	none	The rhino grazed on the grass.	A rhino is grazing in a field.	4.0
+928	main-captions	MSRvid	2012train	637	none	none	A monkey is walking through the water.	A guy is playing a trumpet.	0.0
+276	main-captions	MSRvid	2012test	410	none	none	A  man is dancing.	A man is riding a horse.	0.8
+447	main-captions	MSRvid	2012test	675	none	none	A cat rapidly swats a kid in the head.	A cat and a boy play together.	2.6
+5806	main-captions	MSRvid	2012test	345	none	none	A man is jumping into water.	A man is cutting paper.	0.8
+941	main-captions	MSRvid	2012train	657	none	none	A man is meditating.	The man is riding the horse.	0.75
+298	main-captions	MSRvid	2012test	444	none	none	A woman rides an elephant in front of an adoring crowd.	A woman rides an elephant.	3.0
+633	main-captions	MSRvid	2012train	202	none	none	A cat stares into the camera.	A cat addresses the camera.	3.0
+983	main-captions	MSRvid	2012train	722	none	none	A woman boils eggs.	A woman places two eggs into a pot of water.	3.0
+5980	main-captions	MSRvid	2012train	645	none	none	A baby is crawling happily.	A cat is walking on hardwood floor.	0.1
+564	main-captions	MSRvid	2012train	103	none	none	A small kitten is playing a ball.	A kitten is playing with a ball.	4.4
+5944	main-captions	MSRvid	2012train	422	none	none	A man is putting a knife in a vice.	A man is getting into a car in a garage.	0.8
+329	main-captions	MSRvid	2012test	493	none	none	A bear is running from two dogs.	A bear is fighting wolves.	1.4
+695	main-captions	MSRvid	2012train	289	none	none	A man is lifting weights.	A man is lifting a barbell.	4.2
+235	main-captions	MSRvid	2012test	349	none	none	A man is kicking a soccer ball.	A man is mixing a bowl.	0.6
+445	main-captions	MSRvid	2012test	671	none	none	The man drove his little red car around the traffic.	The dog ran in the water at the beach.	0.0
+375	main-captions	MSRvid	2012test	564	none	none	The animal is eating.	A woman is dancing.	0.0
+962	main-captions	MSRvid	2012train	692	none	none	A man is playing keyboards.	A man is riding a mechanical bull.	1.2
+261	main-captions	MSRvid	2012test	390	none	none	A woman is deveining shrimp.	A man is dancing in rain.	0.0
+17	main-captions	MSRvid	2012test	26	none	none	A woman is writing.	A woman is swimming.	0.5
+34	main-captions	MSRvid	2012test	53	none	none	A man is pouring oil into a pan.	A man is pouring oil into a skillet.	4.2
+711	main-captions	MSRvid	2012train	311	none	none	A man is talking on the phone.	A man is talking.	3.2
+5769	main-captions	MSRvid	2012test	91	none	none	A woman is cooking eggs.	A woman is cooking something.	3.0
+201	main-captions	MSRvid	2012test	295	none	none	Someone is slicing tortila's.	Someone is riding a horse.	0.0
+756	main-captions	MSRvid	2012train	371	none	none	A man is playing soccer.	A man is drawing some figures.	0.4
+732	main-captions	MSRvid	2012train	342	none	none	A man is slicing vegetables.	A woman is slicing a potato.	2.25
+830	main-captions	MSRvid	2012train	492	none	none	A rabbit is sniffing and pawing a stuffed rabbit.	A live rabbit is playing with a stuffed animal bunny.	4.5
+431	main-captions	MSRvid	2012test	645	none	none	A woman is slicing meat with a knife.	A man is spreading out dough.	0.417
+5973	main-captions	MSRvid	2012train	585	none	none	A person is whisking eggs in a bowl.	A woman is beating two eggs in a bowl using a wire whisk.	3.8
+5796	main-captions	MSRvid	2012test	280	none	none	The man is riding a horse.	A woman is using a hoe.	0.0
+758	main-captions	MSRvid	2012train	374	none	none	Someone is cracking an egg open.	A man is breaking an egg.	3.0
+821	main-captions	MSRvid	2012train	482	none	none	The woman is peeling lemon.	The man is balancing on the wire.	0.4
+334	main-captions	MSRvid	2012test	499	none	none	A woman is slicing octopus.	A man is playing the guitar.	0.0
+157	main-captions	MSRvid	2012test	233	none	none	The woman picked up the kangaroo.	A woman picks up a baby kangaroo.	3.75
+5890	main-captions	MSRvid	2012train	76	none	none	A man dives into a pool.	A man dives into a swimming pool.	5.0
+310	main-captions	MSRvid	2012test	466	none	none	The baby crawled through the doorway.	A baby is crawling across the floor.	2.4
+775	main-captions	MSRvid	2012train	410	none	none	The woman is putting makeup on the man.	A woman is painting the face of a man.	2.8
+537	main-captions	MSRvid	2012train	65	none	none	A man is slicing a potato.	A woman is peeling a potato.	2.333
+631	main-captions	MSRvid	2012train	200	none	none	A man is running.	A man is mooing.	1.0
+519	main-captions	MSRvid	2012train	45	none	none	A man is playing a guitar.	A man is playing a flute.	1.583
+784	main-captions	MSRvid	2012train	424	none	none	A man is shooting a pistol.	A woman is chopping garlic.	0.8
+314	main-captions	MSRvid	2012test	472	none	none	A dog lies on his back on a wooden floor.	A dog is laying on the floor.	4.0
+740	main-captions	MSRvid	2012train	351	none	none	A woman tosses a cat in the air, and the cat hangs off a rod on the ceiling.	A person throws a cat in the air and it grabs onto the ceiling.	3.5
+83	main-captions	MSRvid	2012test	120	none	none	A man is peeling a potato.	A man peeled a potatoe.	3.8
+5914	main-captions	MSRvid	2012train	274	none	none	A man is playing a guitar.	The girl is playing the guitar.	2.25
+936	main-captions	MSRvid	2012train	650	none	none	A man is dicing an onion.	The man is playing the guitar.	0.4
+5981	main-captions	MSRvid	2012train	648	none	none	A tiger club is playing with a ball.	A person is chopping shrimp with a knife.	0.0
+658	main-captions	MSRvid	2012train	241	none	none	A man is dangling a mouse near a snake.	A man is feeding a mice to a snake.	3.2
+863	main-captions	MSRvid	2012train	542	none	none	A man rides a horse.	A woman rubs a baby's leg.	0.0
+5833	main-captions	MSRvid	2012test	488	none	none	The man used a sword to slice a plastic bottle.	A man sliced a plastic bottle with a sword.	5.0
+856	main-captions	MSRvid	2012train	529	none	none	The bird ate the food in the tree from a bowl.	A bird is eating from a bowl.	3.25
+367	main-captions	MSRvid	2012test	552	none	none	A woman puts a garland over a man's shoulders.	A man pours water over a pilots head.	0.5
+753	main-captions	MSRvid	2012train	368	none	none	A man is playing guitar.	A woman is peeling a tuber.	0.0
+5911	main-captions	MSRvid	2012train	216	none	none	The puppy tried to get out of the tub.	A puppy is trying to get out of a bathtub.	4.4
+969	main-captions	MSRvid	2012train	701	none	none	The man took off his sunglasses while talking.	A man wearing a hard hat removes his glasses as he speaks.	3.4
+419	main-captions	MSRvid	2012test	630	none	none	A cat is sliding upside down under a couch.	A cat is crawling under a piece of furniture on it's back.	3.2
+5853	main-captions	MSRvid	2012test	575	none	none	A woman is chopping onion.	A man is doing a card trick.	0.0
+5896	main-captions	MSRvid	2012train	134	none	none	The man is hiking in the woods.	A man is tracking in the wood.	3.0
+118	main-captions	MSRvid	2012test	175	none	none	A man is riding on a horse.	A man is talking on a phone.	1.0
+274	main-captions	MSRvid	2012test	408	none	none	A man is riding a skateboard.	A woman is cutting a potato.	0.0
+5865	main-captions	MSRvid	2012test	669	none	none	A woman puts cosmetics on her eyelid.	The woman is pencilling on eye shadow.	4.0
+5813	main-captions	MSRvid	2012test	381	none	none	A woman is applying eye liner to her eyelid using an eye pencil.	A woman is applying cosmetics to her eyelid.	3.8
+848	main-captions	MSRvid	2012train	518	none	none	A woman is hitting a man.	A man is holding a slow loris.	0.0
+704	main-captions	MSRvid	2012train	302	none	none	A chicken is pecking at a dead mouse.	A rooster pecks at a dead mouse.	3.6
+154	main-captions	MSRvid	2012test	227	none	none	A man is slicing something.	A man is slicing a bun.	3.0
+5917	main-captions	MSRvid	2012train	278	none	none	A man is playing a guitar.	A man is cleaning a cd.	0.833
+976	main-captions	MSRvid	2012train	709	none	none	A panda bear is laying down.	A baby panda relaxes on some logs.	3.333
+552	main-captions	MSRvid	2012train	88	none	none	A woman is slicing an onion.	Someone is slicing a onion.	3.25
+594	main-captions	MSRvid	2012train	149	none	none	A man is playing a guitar and singing.	A man is playing a guitar.	3.2
+709	main-captions	MSRvid	2012train	308	none	none	A woman is grating carrots.	A woman is coating a pork chop.	1.6
+572	main-captions	MSRvid	2012train	114	none	none	A woman is adding oil to a pan.	A man is pouring oil into a pan.	3.0
+438	main-captions	MSRvid	2012test	657	none	none	Two Sumo ringers are fighting each other.	A man rides a water toy in the water.	0.0
+225	main-captions	MSRvid	2012test	331	none	none	A woman is cracking eggs into a bowl.	A woman is placing skewers onto a rack.	0.6
+465	main-captions	MSRvid	2012test	700	none	none	Someone is holding a hedgehog.	A onion is being sliced.	0.0
+295	main-captions	MSRvid	2012test	441	none	none	A helicopter is landing on a helipad.	A helicopter lands.	3.923
+346	main-captions	MSRvid	2012test	516	none	none	A woman is opening a soda and drinking it.	A woman is riding on an elephant.	0.6
+65	main-captions	MSRvid	2012test	99	none	none	A squirrel is spinning around in circles.	A squirrel runs around in circles.	4.0
+944	main-captions	MSRvid	2012train	662	none	none	A man is playing the guitar and singing.	A man is opening a package containing headphones.	0.8
+256	main-captions	MSRvid	2012test	382	none	none	A man is cutting tomatoes into pieces.	A woman is cutting some vegetables.	1.8
+413	main-captions	MSRvid	2012test	623	none	none	Someone pours olive oil into a bowl of tomato wedges.	The man poured oil on the tomato slices.	3.75
+121	main-captions	MSRvid	2012test	179	none	none	A man is playing a piano.	A man is playing a flute.	2.0
+5915	main-captions	MSRvid	2012train	276	none	none	A lion cub tries to climb a fence.	A lion tries to climb over a wall.	2.75
+5950	main-captions	MSRvid	2012train	449	none	none	A woman is feeding a baby.	A man is adding water to pan.	0.0
+655	main-captions	MSRvid	2012train	237	none	none	A man is eating a bowl of cereal.	The man is eating cereal.	4.0
+920	main-captions	MSRvid	2012train	626	none	none	A girl is reading a newspaper.	A chef is peeling a potato.	0.0
+5824	main-captions	MSRvid	2012test	446	none	none	A chef is preparing some food.	A chef prepared a meal.	4.0
+192	main-captions	MSRvid	2012test	284	none	none	A man is getting inside a car.	An elderly man is getting into a red car.	3.75
+5952	main-captions	MSRvid	2012train	453	none	none	A woman is mixing eggs.	The woman is eating.	0.5
+148	main-captions	MSRvid	2012test	216	none	none	A man is playing the guitar.	A man seated in a room is playing the guitar.	4.0
+498	main-captions	MSRvid	2012train	10	none	none	The man is drawing.	A man is drawing.	5.0
+203	main-captions	MSRvid	2012test	297	none	none	A rooster pecks at a dead mouse.	A chicken is pecking at a dead mouse.	4.0
+980	main-captions	MSRvid	2012train	714	none	none	The doctor was helping the patient.	Doctors are trying to revive a man.	2.8
+183	main-captions	MSRvid	2012test	271	none	none	A young boy is holding a guitar.	A little boy is playing a guitar.	2.75
+128	main-captions	MSRvid	2012test	190	none	none	A woman plays the guitar.	A man sings and plays the guitar.	1.75
+264	main-captions	MSRvid	2012test	394	none	none	A man is slicing a potato.	A woman is cutting a jalepeno.	1.4
+239	main-captions	MSRvid	2012test	355	none	none	The man is slicing a fish open.	A man is slicing a potato.	2.2
+449	main-captions	MSRvid	2012test	678	none	none	The couple danced in the church.	A couple slow dances.	3.2
+429	main-captions	MSRvid	2012test	642	none	none	The woman is pencilling on eye shadow.	The girl is using an eye pencil on her eyelid.	2.8
+5987	main-captions	MSRvid	2012train	675	none	none	A man plays the guitar and sings.	A man is singing and playing a guitar.	5.0
+602	main-captions	MSRvid	2012train	157	none	none	A woman is grating onion.	A woman grates onions.	5.0
+5768	main-captions	MSRvid	2012test	88	none	none	A man is speaking.	A man is spitting.	0.636
+53	main-captions	MSRvid	2012test	78	none	none	A dog licks a baby.	A dog is licking a baby.	4.75
+5882	main-captions	MSRvid	2012train	12	none	none	A small dog laying on the bed.	A small dog is laying on a bed.	5.0
+454	main-captions	MSRvid	2012test	687	none	none	A man is slicing a pepper.	A person cuts a big green pepper apart.	3.8
+99	main-captions	MSRvid	2012test	144	none	none	A woman is peeling a potato.	A man is slicing potato.	2.4
+322	main-captions	MSRvid	2012test	483	none	none	A man is mowing grass.	A man is busting concrete.	0.833
+109	main-captions	MSRvid	2012test	160	none	none	Lionel Richie is dancing on the ceiling.	Lionel Ritchie dances while standing on the ceiling.	4.0
+5750	main-captions	MSRvid	2012test	2	none	none	A young child is riding a horse.	A child is riding a horse.	4.75
+33	main-captions	MSRvid	2012test	52	none	none	A man is slicing a bun.	A man is slicing an onion.	2.4
+228	main-captions	MSRvid	2012test	335	none	none	A man is playing guitar.	A man is draining pasta.	0.4
+407	main-captions	MSRvid	2012test	616	none	none	Soccer players are kicking a soccer ball into the goal.	A soccer player scores a goal.	3.8
+575	main-captions	MSRvid	2012train	117	none	none	A girl jumps on a car.	A girl is jumping onto a car.	4.8
+479	main-captions	MSRvid	2012test	722	none	none	A man is playing a wooden flute while several other men play bongo drums.	A man is playing a flute.	3.25
+321	main-captions	MSRvid	2012test	482	none	none	A woman is deboning a fish.	A man catches a fish.	1.25
+158	main-captions	MSRvid	2012test	234	none	none	Fish are swimming.	A fish is swimming.	4.133
+5990	main-captions	MSRvid	2012train	707	none	none	A tiger is playing with his trainer.	A tiger attacks a man.	1.333
+496	main-captions	MSRvid	2012train	4	none	none	A woman is slicing an onion.	A woman is cutting an onion.	4.2
+123	main-captions	MSRvid	2012test	182	none	none	A man is spinning.	A man is dancing.	1.6
+5828	main-captions	MSRvid	2012test	462	none	none	Five kittens are eating out of five dishes.	Kittens are eating food on trays.	2.75
+979	main-captions	MSRvid	2012train	712	none	none	A man is putting broccoli into water.	A person is peeling a potato.	1.0
+473	main-captions	MSRvid	2012test	712	none	none	A man is looking out of a window.	A woman is swimming in the water.	0.25
+4	main-captions	MSRvid	2012test	9	none	none	A man is playing the cello.	A man seated is playing the cello.	4.25
+427	main-captions	MSRvid	2012test	639	none	none	Plastic toys are floating in water.	The ladies are performing a dance.	0.0
+459	main-captions	MSRvid	2012test	692	none	none	A small monkey walks through water.	A monkey is wading across a marsh.	3.4
+328	main-captions	MSRvid	2012test	492	none	none	An airplane is flying in the air.	A South African Airways plane is flying in a blue sky.	3.4
+145	main-captions	MSRvid	2012test	212	none	none	A woman is chopping up garlic.	The woman is dicing garlic.	4.8
+866	main-captions	MSRvid	2012train	545	none	none	A man  is driving a car.	A woman dips a shrimp in batter.	0.0
+424	main-captions	MSRvid	2012test	635	none	none	An overweight man is skipping rope.	A young man is dancing.	0.8
+257	main-captions	MSRvid	2012test	384	none	none	Three teenage girls danced in the room.	Some teenage girls are dancing for the camera.	2.4
+524	main-captions	MSRvid	2012train	50	none	none	Two women are on a couch.	Two women are hugging on a couch.	3.2
+5887	main-captions	MSRvid	2012train	66	none	none	A woman is slicing a potato.	A woman is slicing carrot.	2.5
+386	main-captions	MSRvid	2012test	586	none	none	Two puppies are playing with each other.	Some men are playing soccer.	0.2
+381	main-captions	MSRvid	2012test	581	none	none	The military officer barked at the recruits.	An officer is talking to recruits.	2.5
+130	main-captions	MSRvid	2012test	192	none	none	A man is climbing a rope.	A man climbs up a rope.	5.0
+766	main-captions	MSRvid	2012train	391	none	none	A woman is slicing a lemon.	A man is showing a bread.	0.25
+523	main-captions	MSRvid	2012train	49	none	none	A man is playing a flute.	A man is playing a guitar.	2.0
+817	main-captions	MSRvid	2012train	478	none	none	A man is kicking oots of water.	A woman is slicing a red pepper.	0.25
+546	main-captions	MSRvid	2012train	81	none	none	Women are talking.	The men are talking.	2.6
+685	main-captions	MSRvid	2012train	272	none	none	A woman is writing a letter.	A woman is sitting at a desk.	1.667
+142	main-captions	MSRvid	2012test	207	none	none	A dog licks up a baby's drool.	A dog licks a baby.	2.2
+738	main-captions	MSRvid	2012train	349	none	none	A woman is cooking shrimp.	A woman is dancing.	0.8
+886	main-captions	MSRvid	2012train	573	none	none	A woman is applying cosmetics to her face.	A woman is putting on makeup.	4.6
+687	main-captions	MSRvid	2012train	275	none	none	A woman is riding on a horse.	A woman is picking tomatoes.	0.5
+205	main-captions	MSRvid	2012test	299	none	none	A man is playing with frogs	A cat is playing with a camera.	0.75
+260	main-captions	MSRvid	2012test	388	none	none	A black horse is running around.	The horse is running.	4.2
+204	main-captions	MSRvid	2012test	298	none	none	A woman holds a kangaroo.	A woman is picking up a kangaroo.	3.25
+743	main-captions	MSRvid	2012train	356	none	none	The man is pushing the van.	The woman is singing.	0.0
+475	main-captions	MSRvid	2012test	715	none	none	A woman is slicing an onion with a knife.	A man is preparing some dish.	1.25
+883	main-captions	MSRvid	2012train	569	none	none	A boy is upset playing video games.	Someone is playing a gameboy.	1.75
+845	main-captions	MSRvid	2012train	515	none	none	A man is peeling a potato.	A man is hiking.	0.5
+55	main-captions	MSRvid	2012test	81	none	none	A man is playing the guitar.	A man is playing the drums.	1.556
+303	main-captions	MSRvid	2012test	450	none	none	A man is drawing a picture.	A person is drawing.	3.6
+421	main-captions	MSRvid	2012test	632	none	none	A chef is cleaning up a bowl of soup.	A man is wiping the edge of a bowl off.	2.533
+570	main-captions	MSRvid	2012train	111	none	none	A man and a woman are riding on their bicycles.	A man and woman are riding a motorcycle.	2.0
+15	main-captions	MSRvid	2012test	22	none	none	A dog is trying to get bacon off his back.	A dog is trying to eat the bacon on its back.	3.75
+485	main-captions	MSRvid	2012test	736	none	none	Four boys are standing in front of the burning car.	Four young men stand still as a car explodes behind them.	3.75
+470	main-captions	MSRvid	2012test	708	none	none	A woman is dicing a potato.	A woman cuts tofu into tiny pieces.	1.8
+456	main-captions	MSRvid	2012test	689	none	none	A boy is crawling into a dog house.	A cat is playing on the floor.	0.0
+551	main-captions	MSRvid	2012train	87	none	none	A man played the piano.	A man plays a piano.	4.0
+287	main-captions	MSRvid	2012test	429	none	none	Some men are playing guitars.	Three men are playing guitars and singing together.	3.2
+543	main-captions	MSRvid	2012train	74	none	none	A woman is cutting a leak.	A woman is slicing a leek.	4.0
+5901	main-captions	MSRvid	2012train	175	none	none	A man is playing guitar.	A man plays a guitar.	4.857
+724	main-captions	MSRvid	2012train	328	none	none	A man is playing piano.	A man is laying on the ground.	0.75
+388	main-captions	MSRvid	2012test	588	none	none	A man is hugging someone.	A man is taking a picture.	0.4
+805	main-captions	MSRvid	2012train	458	none	none	A cook seasons some dough.	A man is seasoning some dough in a pan.	3.75
+343	main-captions	MSRvid	2012test	512	none	none	A woman is dancing with other women.	A woman is shredding chicken.	0.4
+997	main-captions	MSRvid	2012train	746	none	none	A woman is running on the beach.	A dog is swimming in a pool.	0.0
+814	main-captions	MSRvid	2012train	473	none	none	A man is riding on one wheel on a motorcycle.	A person is performing tricks on a motorcycle.	3.0
+23	main-captions	MSRvid	2012test	34	none	none	A woman is eating something.	A woman is eating meat.	3.0
+598	main-captions	MSRvid	2012train	153	none	none	A woman is swimming.	A man is singing.	0.067
+813	main-captions	MSRvid	2012train	472	none	none	The two dogs were in the pen.	The cowboy rode his horse in the desert.	0.0
+904	main-captions	MSRvid	2012train	604	none	none	A boy runs away from his fishing line.	A boy is running in front of fish hanging on fishing rod.	3.0
+761	main-captions	MSRvid	2012train	381	none	none	A man and woman are Bollywood dancing.	A man an woman are dancing in the rain.	1.667
+32	main-captions	MSRvid	2012test	50	none	none	A woman is dancing and singing with other women.	A woman is dancing and singing in the rain.	3.0
+290	main-captions	MSRvid	2012test	433	none	none	Someone drills a hole in a strip of wood with a power drill.	A man drills a hole in a piece of wood.	3.2
+5943	main-captions	MSRvid	2012train	414	none	none	A person uses a blowtorch on two cameras.	A person is burning cameras.	2.333
+5897	main-captions	MSRvid	2012train	137	none	none	A man is playing a flute.	A man is playing guitar.	2.167
+171	main-captions	MSRvid	2012test	252	none	none	A woman is playing a flute on stage.	The woman is playing the flute.	3.6
+686	main-captions	MSRvid	2012train	273	none	none	A gorilla is playing the drums.	A monkey is playing drums.	3.333
+420	main-captions	MSRvid	2012test	631	none	none	A woman dances while a man plays the keyboard.	A woman is dancing on a stage.	2.2
+5798	main-captions	MSRvid	2012test	289	none	none	A man is fitting silencer on a pistol.	A man is adding a silencer to a gun.	4.5
+840	main-captions	MSRvid	2012train	507	none	none	A person is rinsing a steak off with water.	A man is rinsing a large steak.	3.929
+16	main-captions	MSRvid	2012test	25	none	none	The polar bear is sliding on the snow.	A polar bear is sliding across the snow.	5.0
+919	main-captions	MSRvid	2012train	625	none	none	A man is catching a ball.	A cat is rubbing against a baby.	0.0
+5873	main-captions	MSRvid	2012test	717	none	none	A woman is peeling an orange.	A woman cuts off a small piece of lemon rind.	1.8
+416	main-captions	MSRvid	2012test	626	none	none	A person is peeling a potato.	A cat is licking a small bottle.	0.0
+858	main-captions	MSRvid	2012train	532	none	none	A woman is seasoning a piece of meat.	A man is loading a rifle with bullets.	0.0
+40	main-captions	MSRvid	2012test	59	none	none	A woman is frying fish.	A woman is cooking fish.	4.0
+968	main-captions	MSRvid	2012train	700	none	none	A girl is dragged downhill by a dog.	A dog is pulling a child down a hill.	3.8
+186	main-captions	MSRvid	2012test	274	none	none	An orangutan is riding a bus.	A monkey is riding on a bus.	3.6
+505	main-captions	MSRvid	2012train	27	none	none	A woman is frying a food.	A woman is deep frying food.	4.25
+484	main-captions	MSRvid	2012test	735	none	none	A small guinea pig is gnawing and eating a piece of carrot on the floor.	A Guinea pig eats a carrot.	3.5
+478	main-captions	MSRvid	2012test	721	none	none	Two men are fighting.	The man is exercising.	0.75
+596	main-captions	MSRvid	2012train	151	none	none	A kangaroo is eating.	Kangaroo eating.	4.75
+370	main-captions	MSRvid	2012test	556	none	none	Trees are bending in storm.	Trees are hit by very hard winds.	2.667
+491	main-captions	MSRvid	2012test	747	none	none	A person is slicing an onion.	A cat is pooping into a toilet.	0.0
+377	main-captions	MSRvid	2012test	570	none	none	A group of people sing.	Some people are singing.	5.0
+289	main-captions	MSRvid	2012test	432	none	none	A dog sat at the counter of a store.	The dog is standing at the counter.	2.6
+620	main-captions	MSRvid	2012train	184	none	none	A man is playing a violin.	A man is playing a harp.	1.6
+981	main-captions	MSRvid	2012train	715	none	none	Some is grating onion into water.	A person grates a potato into a bowl.	1.5
