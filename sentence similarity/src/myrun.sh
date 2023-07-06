@@ -1,4 +1,4 @@
-# should execute pre-training in advance. Also be careful layer_number
+# You should execute pre-training in advance. Please also be careful of layer_number.
 # 1) BERT *************************
 CUDA_VISIBLE_DEVICE=7 python3 run_glue.py --data_dir='../dataset/STS-B/MSRvid' 
                                               --model_type='bert' 
