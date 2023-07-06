@@ -1,4 +1,4 @@
-# Pre-training on source genre and tuning on the target gernre. 
+# Pre-training on a source genre while tuning on the target genre. 
 # 1) BERT *************************
 CUDA_VISIBLE_DEVICE=7 python3 run_glue.py --data_dir='../dataset/STS-B/MSRvid' 
                                               --model_type='bert' 
