@@ -2,7 +2,7 @@ This experiment is implemented based on pycls package (https://github.com/facebo
 
 We do not put all the dependent files here as they are not our contributions. What we mainly change is to modify the trainer.py under the path:
  
-/pycls/core/trainer.py
+/pycls/core/trainer.py (see the presented one)
 
 You may also need to create a configs file which is typically under the path of /pycls/core/ formatted with yaml.
 
