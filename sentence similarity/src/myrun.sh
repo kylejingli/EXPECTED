@@ -1,4 +1,4 @@
-# You should execute pre-training in advance. Please also be careful of layer_number.
+# Pre-training on source genre and tuning on the target gernre. 
 # 1) BERT *************************
 CUDA_VISIBLE_DEVICE=7 python3 run_glue.py --data_dir='../dataset/STS-B/MSRvid' 
                                               --model_type='bert' 
