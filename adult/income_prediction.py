@@ -12,7 +12,7 @@ import math
 from cmaes import CMA, CMAwM, SepCMA
 import time
 
-mydir = '/sparse_version/'
+mydir = '/sparse_version/data'
 h = 80
 Q=1000
 B = int(h/4)
@@ -409,7 +409,7 @@ def main():
     X_test2 = torch.from_numpy(Xte2).float()
     Y_test2 = torch.from_numpy(Yte2).float()
     
-    result_path = 'Adult/temp_result/'
+    result_path = 'Adult/result/'
     
     
     # static random search 
