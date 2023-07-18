@@ -12,4 +12,4 @@ The key optimization idea is to estimate model gradients via query-feedback pair
 
 Here is an example of how the estimated gradient $\nabla\mathbb{E}[E(\theta)]$ approximates the true gradient $\nabla E(\theta)$. The pink arrow denotes the projection of $\nabla E(\theta)$ onto selected finite bases $\epsilon_1$ and $\epsilon_2$. One can easily verify that a true gradient $(2,1,1)$ under this decomposition corresponds to an estimated gradient $(2,1.1,0)$.
 
-<img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/gradient%20estimation.png" width="300">
+<center><img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/gradient%20estimation.png" width="300">
