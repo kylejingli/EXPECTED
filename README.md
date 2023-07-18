@@ -19,3 +19,13 @@ $$\theta_*=arg\max E(\mathcal{D};F_{\theta}), s.t. queries \le Q$$
 <div align=center>
 <img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/layer%20importance.png" width="400">
 </div>
+
+3. Connection to RL from the technique level
+
+## Toy example
+
+## Privacy concern 
+
+## New perspective of black-box 
+
+## Code usage
