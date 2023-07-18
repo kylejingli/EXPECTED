@@ -12,10 +12,10 @@ $$\theta_*=arg\max E(\mathcal{D};F_{\theta}), s.t. queries \le Q$$
 
     Here is an example of how the estimated gradient $\nabla\mathbb{E}[E(\theta)]$ approximates the true gradient $\nabla E(\theta)$. The pink arrow denotes the projection of $\nabla E(\theta)$ onto selected finite bases $\epsilon_1$ and $\epsilon_2$. One can easily verify that a true gradient $(2,1,1)$ under this decomposition corresponds to an estimated gradient of $(2,1.1,0)$.
 <div align=center>
-<img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/gradient%20estimation.png" width="300">
+<img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/gradient%20estimation.png" width="500">
 </div>
 
 2. For efficiency, finding only partial layers of DNNs to tune (because of the tight query budget) is another key point of our method. This can be formulated as a multi-arm bandit problem and the goal is to achieve a lower regret. This is an online process although one can simply understand we are trying to identify the layer importance as the below figure.
 <div align=center>
-<img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/layer%20importance.png" width="300">
+<img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/layer%20importance.png" width="500">
 </div>
