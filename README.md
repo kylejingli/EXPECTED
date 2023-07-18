@@ -17,5 +17,5 @@ $$\theta_*=arg\max E(\mathcal{D};F_{\theta}), s.t. queries \le Q$$
 
 2. For efficiency, finding only partial layers of DNNs to tune (because of the tight query budget) is another key point of our method. This can be formulated as a multi-arm bandit problem and the goal is to achieve a lower regret. This is an online process although one can simply understand we are trying to identify the layer importance as the below figure.
 <div align=center>
-<img src="" width="300">
+<img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/layer%20importance.png" width="300">
 </div>
