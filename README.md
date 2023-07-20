@@ -33,7 +33,7 @@ Try the toy example where a pre-trained model can adapt to the unseen target dat
 </div>
 
 ## Connection to black-box adversarial attack
-We are tuning a white-box model through black-box optimization because "we put data target data into a black box". One can see EXPECTED is symmetric to query-based black-box adversarial attack.
+In EXPECTED, we are essentially tuning a white-box model through black-box optimization technique because "we put data target data into a black box". In this sense, one can see EXPECTED is symmetric with query-based black-box adversarial attack through exchanging the position of data and model.
 <div align=center>
 <img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/Connection%20to%20BB%20adv%20attack.png" width="700">
 </div>
