@@ -27,6 +27,10 @@ $$\theta_*=arg\max E(\mathcal{D};F_{\theta}), s.t. queries \le Q$$
    
 
 ## Toy example
+Try the toy example where a pre-trained model can adapt to the unseen target data with 80-time queries.
+
+
+
 
 ## Privacy concern 
 
