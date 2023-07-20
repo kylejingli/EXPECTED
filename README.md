@@ -15,12 +15,13 @@ $$\theta_*=arg\max E(\mathcal{D};F_{\theta}), s.t. queries \le Q$$
 <img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/gradient%20estimation.png" width="400">
 </div>
 
-2. For efficiency, finding only partial layers of DNNs to tune (because of the tight query budget) is another key point of our method. This can be formulated as a multi-arm bandit problem and the goal is to achieve a lower regret. This is an online process although one can simply understand we are trying to identify the layer importance as the below figure.
+2. For efficiency, finding only partial layers of DNNs to tune (because of the tight query budget) is another key point of our method. This can be formulated as a multi-arm bandit (MB) problem and the goal is to achieve a lower regret. Please refer to the layerwise coordinate parameter search (LCPS) algorithm of our paper. This is an online process although one can simply understand we are trying to identify the layer importance as the below figure.
 <div align=center>
 <img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/layer%20importance.png" width="400">
 </div>
 
-Note: For readers who are not quite familiar with the difference between black-box optimization and reinforcement learning, we recommend referring to the appendices of our paper.
+Note: For readers who are not quite familiar with the difference between black-box optimization and reinforcement learning, we recommend referring to the appendices of our paper. Here we simply show their connections if you have some prior knowledge about them.
+
    
 
 ## Toy example
