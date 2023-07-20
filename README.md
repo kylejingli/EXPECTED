@@ -20,8 +20,10 @@ $$\theta_*=arg\max E(\mathcal{D};F_{\theta}), s.t. queries \le Q$$
 <img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/layer%20importance.png" width="400">
 </div>
 
-Note: For readers who are not quite familiar with the difference between black-box optimization and reinforcement learning, we recommend referring to the appendices of our paper. Here we simply show their connections if you have some prior knowledge about them.
-
+Note: For readers who are not quite familiar with the difference between black-box optimization (BO) and reinforcement learning (RL), we recommend referring to the appendices of our paper. Here we simply show their connections if you have some prior knowledge about them.
+<div align=center>
+<img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/BO_RL.png" width="400">
+</div>
    
 
 ## Toy example
