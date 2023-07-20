@@ -45,6 +45,7 @@ We are tuning a white-box model through black-box optimization because "we put d
 
 ## Citation
 If you find this repository helpful to your study, please do not forget to cite
+
 @article{li2023earning,
   title={Earning Extra Performance from Restrictive Feedbacks},
   author={Li, Jing and Pan, Yuangang and Lyu, Yueming and Yao, Yinghua and Sui, Yulei and Tsang, Ivor W},
