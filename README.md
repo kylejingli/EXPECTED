@@ -43,5 +43,4 @@ We are tuning a white-box model through black-box optimization because "we put d
 2. Adult dataset is used as a binary classification on which we also tested how the model adapts if some fairness metric is needed on downstream tasks.
 3. CIFAR-10-C and STS-B are mainly testing the efficacy of LCPS where only contributive layers are identified in an online optimization manner.
 
-## Citation
-If you find this repository helpful to your study, please cite it.
+If you find this repository helpful to your study, please do not forget to cite it.
