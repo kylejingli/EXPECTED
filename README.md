@@ -32,8 +32,9 @@ Try the toy example where a pre-trained model can adapt to the unseen target dat
 <img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/toy%20example.png" width="400">
 </div>
 
-## Privacy concern 
+## Connection to black-box adversarial attack
+We are tuning a white-box model through black-box optimization because "we put data target data into a black box". One can see EXPECTED is symmetric to query-based black-box adversarial attack.
 
-## New perspective of black-box 
+
 
 ## Code usage
