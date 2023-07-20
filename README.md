@@ -35,7 +35,7 @@ Try the toy example where a pre-trained model can adapt to the unseen target dat
 ## Connection to black-box adversarial attack
 We are tuning a white-box model through black-box optimization because "we put data target data into a black box". One can see EXPECTED is symmetric to query-based black-box adversarial attack.
 <div align=center>
-<img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/Connection%20to%20BB%20adv%20attack.png">
+<img src="https://github.com/kylejingli/EXPECTED/blob/main/figs/Connection%20to%20BB%20adv%20attack.png" width="700">
 </div>
 
 ## Code usage
@@ -44,18 +44,11 @@ We are tuning a white-box model through black-box optimization because "we put d
 3. CIFAR-10-C and STS-B are mainly testing the efficacy of LCPS where only contributive layers are identified in an online optimization manner.
 
 ## Citation
-If you find this repository helpful to your study, please do not forget to cite
-
-@article{li2023earning,
-
-    title={Earning Extra Performance from Restrictive Feedbacks},
-    
-    author={Li, Jing and Pan, Yuangang and Lyu, Yueming and Yao, Yinghua and Sui, Yulei and Tsang, Ivor W},
-    
-    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  
-    year={2023},
-    
-    publisher={IEEE}
-    
+If you find this repository helpful to your study, please do not forget to cite [it].
+    @article{li2023earning,
+  title={Earning Extra Performance from Restrictive Feedbacks},
+  author={Li, Jing and Pan, Yuangang and Lyu, Yueming and Yao, Yinghua and Sui, Yulei and Tsang, Ivor W},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
 }
