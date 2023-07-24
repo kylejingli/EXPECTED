@@ -1,5 +1,5 @@
 # Earning Extra Performance from Restrictive Feedbacks
-The code is for the publication of TPAMI-23: Earning extra performance from restrictive feedbacks. For readers who would like to know more about this work, I strongly recommend reading this document because some parts are not elaborately stated in the published paper. 
+The code is for the publication of TPAMI-23: Earning extra performance from restrictive feedbacks. For readers who would like to know more about this work, I strongly recommend reading this document because you can see some comprehensive analyses behind the work itself.
 
 ## Problem setup
 ![alt text](https://github.com/kylejingli/EXPECTED/blob/main/figs/EXPECTED%20Problem.png)
